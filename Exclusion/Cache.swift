@@ -6,7 +6,7 @@
 //  Copyright © 2017年 Kyohei Ito. All rights reserved.
 //
 
-import UIKit
+import Foundation
 
 class Cache: URLCache {
     /// set greater than 0 if needs to return cache forcibly, then the cache will be returned until past it.
