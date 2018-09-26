@@ -11,7 +11,7 @@ It can control to store the cache and to respond to the cache. So, using this wi
 
 ## Requirements
 
-- Swift 4.0
+- Swift 4.2
 - iOS 8.0 or later
 - tvOS 9.0 or later
 
